@@ -1,4 +1,3 @@
-# Rock-Paper-Scissors
-Repo created as part of The Odin Project
+# Rock-Paper-Scissors - The Odin Project
 
-Quick webpage to simulate a rock-paper-scissors game using the JavaScript console
+Quick blank webpage to simulate a rock-paper-scissors game using the JavaScript console and window prompts
